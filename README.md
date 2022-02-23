@@ -1,4 +1,4 @@
-### CODE BY Dtou 👋
+### CODE BY Dtou
 
 <!--
 **dttt3629/dttt3629** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
